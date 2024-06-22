@@ -32,10 +32,4 @@ pio run
 
 To simulate this project locally, install [Wokwi for VS Code](https://marketplace.visualstudio.com/items?itemName=wokwi.wokwi-vscode). Open the project directory in Visual Studio Code, press **F1** and select "Wokwi: Start Simulator".
 
-## About NexusNova
 
-NexusNova is the group behind this project. We are a passionate team of makers and developers working on a variety of embedded systems and IoT projects. For more information about our projects and updates, visit our website.
-
-- Website: [NexusNova Official](https://nexusnova-iot.github.io/landing-page/)
-
-Feel free to explore, collaborate, and contribute to this project. If you have any questions or suggestions, don't hesitate to get in touch.
